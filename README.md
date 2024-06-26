@@ -1,6 +1,6 @@
 # Weather Dashboard
 
-![](WEATHER-DASHBOARD/WEATHER-DASHBOARD.gif)
+![](assets/images/WEATHER-DASHBOARD.gif)
 
 ## Table of Contents
 - [Overview](#overview)
