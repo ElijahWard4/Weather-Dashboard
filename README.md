@@ -1,5 +1,5 @@
 # Weather Dashboard
-![](WEATHER-DASHBOARD.gif)
+![](Weather-Dashboard/WEATHER-DASHBOARD.gif)
 
 ## Table of Contents
 - [Overview](#overview)
