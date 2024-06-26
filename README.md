@@ -28,11 +28,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ElijahWard4/WEATHER-DASHBOARD.git
+    git clone https://github.com/ElijahWard4/Weather-Dashboard.git
     ```
 2. Open the project directory:
     ```bash
-    cd WEATHER-DASHBOARD
+    cd Weather-Dashboard
     ```
 3. Open index.html in your web browser or use a live server extension in your text editor.
 
